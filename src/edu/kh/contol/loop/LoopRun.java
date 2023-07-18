@@ -8,6 +8,13 @@ public class LoopRun {
 		//forEx.ex3();
 		//forEx.ex4();
 		//forEx.ex5();
-		forEx.ex6();
+		//forEx.ex6();
+		//forEx.ex7();
+		//forEx.ex8();
+		//forEx.ex9();
+		//forEx.ex10();
+		//forEx.ex11();
+		//forEx.ex12();
+		forEx.ex13();
 	}
 }
