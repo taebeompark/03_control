@@ -15,6 +15,8 @@ public class LoopRun {
 		//forEx.ex10();
 		//forEx.ex11();
 		//forEx.ex12();
-		forEx.ex13();
+		//forEx.ex13();
+		//forEx.ex14();
+		forEx.ex15();
 	}
 }
